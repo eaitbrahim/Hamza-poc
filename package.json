@@ -1,0 +1,19 @@
+{
+  "name": "hamza-poc",
+  "version": "1.0.0",
+  "description": "Buy Sell Easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eaitbrahim/Hamza-poc.git"
+  },
+  "author": "Elmehdi Aitbrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eaitbrahim/Hamza-poc/issues"
+  },
+  "homepage": "https://github.com/eaitbrahim/Hamza-poc#readme"
+}
